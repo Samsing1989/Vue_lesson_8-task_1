@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "category": "Телевізори",
+        "imgSrc": "https://content.rozetka.com.ua/goods/images/big/364929547.jpg"
+    },
+    {
+        "id": 2,
+        "category": "Ноудбуки",
+        "imgSrc": "https://content.rozetka.com.ua/goods/images/original/349586929.jpg"
+    },
+    {
+        "id": 3,
+        "category": "Телефони",
+        "imgSrc": "https://content1.rozetka.com.ua/goods/images/big/328128600.jpg"
+    },
+    {
+        "id": 4,
+        "category": "Монітори",
+        "imgSrc": "https://content.rozetka.com.ua/goods/images/big/322631323.jpg"
+    }
+]
